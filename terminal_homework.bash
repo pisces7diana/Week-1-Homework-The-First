@@ -1,4 +1,4 @@
-# Copy this text into your `.bash` homework file. Copy and paste the code you successfully used into terminal below each prompt
+Copy this text into your `.bash` homework file. Copy and paste the code you successfully used into terminal below each prompt
 
 // Getting Started
 # Open the **Terminal app**

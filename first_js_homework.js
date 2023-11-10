@@ -4,7 +4,7 @@
 
 
 
-// Section 2b//
+// Section 2//
 
 const a = 4;
 const b = 53;

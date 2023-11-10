@@ -1,10 +1,10 @@
-// Section 1
+// Section 1 //
     // 1. DRY stands for Don't Repeat Yourself. We should pay attention to it because efficiency matters when it comes to writing thousands of codes. The programming tools we have learned to write DRY code is while and for loops
     // The difference between const and let and var are as follows: const variables don't change (no reassignment of the variable); let variables can change later (reassign the variable), var is outdated
 
 
 
-// Section 2
+// Section 2b//
 
 const a = 4;
 const b = 53;

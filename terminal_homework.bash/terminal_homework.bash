@@ -5,6 +5,7 @@
 // command + space
 // type terminal in Spotlight Search and press Return
 // pwd
+// ls
 // cd Desktop
 
 # Create a new directory on your Desktop called `first_homework`and enter it
